@@ -1,0 +1,7 @@
+to compile and run: make run
+in terminal.
+
+**Important Notice**
+If the makeFile file will reach Windows OS it will not compile! (Build in Vlab)
+In that case, just copy the content of the makefile, create new one, and paste.
+***
