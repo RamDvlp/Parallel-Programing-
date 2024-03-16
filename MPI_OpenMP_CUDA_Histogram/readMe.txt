@@ -1,1 +1,1 @@
-folder contatining cuda libraries not presented. 
+folder containing cuda libraries not presented. 
